@@ -1,6 +1,4 @@
 ## Team _Pado_<a id="팀-소개">
-
-[<img src="https://img.shields.io/badge/Notion-Link-333333?logo=Notion">](https://www.notion.so/4vengers-1133c20995cb8086b316f83013f75823)
 | <img src="https://github.com/user-attachments/assets/5a0d8aa8-0a1f-41f3-a93f-b2985c1765d6" height="100"/> | <img src="https://github.com/user-attachments/assets/79d48cf7-bdd4-4ec1-831c-bb57d5d9f57d" height="100"/> | <img src="https://github.com/user-attachments/assets/74133185-5305-4361-a9e0-52e76f67de3d" height="100"/> | <img src="https://github.com/user-attachments/assets/a17e5ef4-f7be-48fb-ae41-5cd3b27f5918" height="100"/> | <img src="https://github.com/user-attachments/assets/00ef7243-5ac8-4f3a-8b43-2271ee79665c" height="100"/> | <img src="https://github.com/user-attachments/assets/87c92c58-17cc-4ee5-bd27-6e580623a86e" height="100"/>|
 | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ |
 | 박경희 | 윤채연 | 전기범 | 장민근 | 조창욱 | 최해관 | 
@@ -9,7 +7,20 @@
 
 ---
 
-# 기술 스택 <a id="기술-스택">
+
+## 📢 발표 영상  
+[![YouTube](https://img.shields.io/badge/YouTube-Watch-red?logo=youtube)](https://www.youtube.com/watch?v=zQwBRuSwOas)  
+
+## 🔗 협업 자료  
+[![Notion](https://img.shields.io/badge/Notion-View-333333?logo=Notion)](https://cool-mallow-c40.notion.site/pado-FINAL-12850a7aee80802da129e6343bb2f12b?pvs=4)
+
+---
+
+### 📌 시스템 아키텍처
+![image](https://github.com/user-attachments/assets/e21397c2-aa73-4579-a67f-245f0bf778af)
+
+---
+# 💻 기술 스택 <a id="기술-스택">
 
 ### 1. Backend <a id="1-backend"></a>
 
@@ -132,10 +143,6 @@
 
 ### 📌 단위 테스트 결과서
 [![단위 테스트 결과서 다운로드](https://img.shields.io/badge/📑_단위_테스트_결과서-다운로드-4A90E2?style=for-the-badge&logo=readthedocs&labelColor=blue)](https://github.com/user-attachments/files/18246698/Pado_.pdf)
-
-
-### 📌 시스템 아키텍처
-![image](https://github.com/user-attachments/assets/e21397c2-aa73-4579-a67f-245f0bf778af)
 
 ### 📌 프로그램 사양서
 
